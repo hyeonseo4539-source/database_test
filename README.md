@@ -1,4 +1,4 @@
-# 🎓 데이터베이스 시험 시스템 (Database Exam System)
+# 🎓 ㅇㅇ데이터베이스 시험 시스템 (Database Exam System)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
